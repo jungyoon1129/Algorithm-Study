@@ -1,5 +1,7 @@
 import java.util.*;
-
+/*
+ * 효울성을 위해 다음으로 배치될 room번호를 hashmap에 저장해두고 갱신
+ */
 public class Solution4 {
 
 	public static void main(String[] args) {

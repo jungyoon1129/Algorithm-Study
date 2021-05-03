@@ -1,5 +1,7 @@
 import java.util.*;
-
+/*
+ * 효율성 때문에 binary search로 찾음
+ */
 public class Solution5 {
 	public static void main(String args[]) {
 		int []stones = {2, 4, 5, 3, 2, 1, 4, 2, 5, 1};
